@@ -1,0 +1,23 @@
+# Dependencies
+node_modules/
+.pnp
+.pnp.js
+
+# Production Build Outputs
+build/
+dist/
+coverage/
+
+# OS & Environment Metadata
+.DS_Store
+Thumbs.db
+*.log
+.env*
+!.env.example
+
+# IDE & Editor caches
+.vscode/
+.idea/
+*.swp
+*.swo
+
