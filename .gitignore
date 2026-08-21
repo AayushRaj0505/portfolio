@@ -7,6 +7,7 @@ node_modules/
 build/
 dist/
 coverage/
+doc/
 
 # OS & Environment Metadata
 .DS_Store
@@ -14,6 +15,7 @@ Thumbs.db
 *.log
 .env*
 !.env.example
+README.md
 
 # IDE & Editor caches
 .vscode/

@@ -19,7 +19,7 @@
 
 import React, { useEffect } from 'react';
 import { UserProfile } from '../types';
-import { X, Code, Briefcase, GraduationCap, MapPin, Mail, Github, Globe } from 'lucide-react'; //add download here
+import { X, Code, Briefcase, GraduationCap, MapPin, Mail, Github, Globe } from 'lucide-react'; //add download here 
 
 interface ResumeModalProps {
   profile: UserProfile;
